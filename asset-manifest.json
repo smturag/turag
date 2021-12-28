@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/turag/static/css/main.9952f49c.chunk.css",
-    "main.js": "/turag/static/js/main.90330760.chunk.js",
-    "main.js.map": "/turag/static/js/main.90330760.chunk.js.map",
+    "main.js": "/turag/static/js/main.f4aa1f4f.chunk.js",
+    "main.js.map": "/turag/static/js/main.f4aa1f4f.chunk.js.map",
     "runtime-main.js": "/turag/static/js/runtime-main.7a4aa8f1.js",
     "runtime-main.js.map": "/turag/static/js/runtime-main.7a4aa8f1.js.map",
     "static/css/2.9f0b74ee.chunk.css": "/turag/static/css/2.9f0b74ee.chunk.css",
@@ -30,6 +30,6 @@
     "static/css/2.9f0b74ee.chunk.css",
     "static/js/2.60a288d1.chunk.js",
     "static/css/main.9952f49c.chunk.css",
-    "static/js/main.90330760.chunk.js"
+    "static/js/main.f4aa1f4f.chunk.js"
   ]
 }
