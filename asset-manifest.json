@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/turag/static/css/main.9952f49c.chunk.css",
-    "main.js": "/turag/static/js/main.f4aa1f4f.chunk.js",
-    "main.js.map": "/turag/static/js/main.f4aa1f4f.chunk.js.map",
+    "main.js": "/turag/static/js/main.0976c319.chunk.js",
+    "main.js.map": "/turag/static/js/main.0976c319.chunk.js.map",
     "runtime-main.js": "/turag/static/js/runtime-main.7a4aa8f1.js",
     "runtime-main.js.map": "/turag/static/js/runtime-main.7a4aa8f1.js.map",
     "static/css/2.9f0b74ee.chunk.css": "/turag/static/css/2.9f0b74ee.chunk.css",
-    "static/js/2.60a288d1.chunk.js": "/turag/static/js/2.60a288d1.chunk.js",
-    "static/js/2.60a288d1.chunk.js.map": "/turag/static/js/2.60a288d1.chunk.js.map",
+    "static/js/2.9fe25af5.chunk.js": "/turag/static/js/2.9fe25af5.chunk.js",
+    "static/js/2.9fe25af5.chunk.js.map": "/turag/static/js/2.9fe25af5.chunk.js.map",
     "static/js/3.6d4a6926.chunk.js": "/turag/static/js/3.6d4a6926.chunk.js",
     "static/js/3.6d4a6926.chunk.js.map": "/turag/static/js/3.6d4a6926.chunk.js.map",
     "index.html": "/turag/index.html",
     "static/css/2.9f0b74ee.chunk.css.map": "/turag/static/css/2.9f0b74ee.chunk.css.map",
     "static/css/main.9952f49c.chunk.css.map": "/turag/static/css/main.9952f49c.chunk.css.map",
-    "static/js/2.60a288d1.chunk.js.LICENSE.txt": "/turag/static/js/2.60a288d1.chunk.js.LICENSE.txt",
+    "static/js/2.9fe25af5.chunk.js.LICENSE.txt": "/turag/static/js/2.9fe25af5.chunk.js.LICENSE.txt",
     "static/media/Turag.68153562.pdf": "/turag/static/media/Turag.68153562.pdf",
     "static/media/diu-logo.d461b2e5.png": "/turag/static/media/diu-logo.d461b2e5.png",
     "static/media/gis.29233fce.jpg": "/turag/static/media/gis.29233fce.jpg",
@@ -28,8 +28,8 @@
   "entrypoints": [
     "static/js/runtime-main.7a4aa8f1.js",
     "static/css/2.9f0b74ee.chunk.css",
-    "static/js/2.60a288d1.chunk.js",
+    "static/js/2.9fe25af5.chunk.js",
     "static/css/main.9952f49c.chunk.css",
-    "static/js/main.f4aa1f4f.chunk.js"
+    "static/js/main.0976c319.chunk.js"
   ]
 }
