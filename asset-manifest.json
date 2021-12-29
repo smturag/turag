@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/turag/static/css/main.59b04e8e.chunk.css",
-    "main.js": "/turag/static/js/main.2238b5f6.chunk.js",
-    "main.js.map": "/turag/static/js/main.2238b5f6.chunk.js.map",
+    "main.js": "/turag/static/js/main.cb0f87e5.chunk.js",
+    "main.js.map": "/turag/static/js/main.cb0f87e5.chunk.js.map",
     "runtime-main.js": "/turag/static/js/runtime-main.813200a6.js",
     "runtime-main.js.map": "/turag/static/js/runtime-main.813200a6.js.map",
     "static/css/2.c1a117ac.chunk.css": "/turag/static/css/2.c1a117ac.chunk.css",
-    "static/js/2.5abc05d9.chunk.js": "/turag/static/js/2.5abc05d9.chunk.js",
-    "static/js/2.5abc05d9.chunk.js.map": "/turag/static/js/2.5abc05d9.chunk.js.map",
+    "static/js/2.e03a9f1d.chunk.js": "/turag/static/js/2.e03a9f1d.chunk.js",
+    "static/js/2.e03a9f1d.chunk.js.map": "/turag/static/js/2.e03a9f1d.chunk.js.map",
     "static/js/3.2df2bb10.chunk.js": "/turag/static/js/3.2df2bb10.chunk.js",
     "static/js/3.2df2bb10.chunk.js.map": "/turag/static/js/3.2df2bb10.chunk.js.map",
     "index.html": "/turag/index.html",
     "static/css/2.c1a117ac.chunk.css.map": "/turag/static/css/2.c1a117ac.chunk.css.map",
     "static/css/main.59b04e8e.chunk.css.map": "/turag/static/css/main.59b04e8e.chunk.css.map",
-    "static/js/2.5abc05d9.chunk.js.LICENSE.txt": "/turag/static/js/2.5abc05d9.chunk.js.LICENSE.txt",
+    "static/js/2.e03a9f1d.chunk.js.LICENSE.txt": "/turag/static/js/2.e03a9f1d.chunk.js.LICENSE.txt",
     "static/media/Turag.68153562.pdf": "/turag/static/media/Turag.68153562.pdf",
     "static/media/Home.scss": "/turag/static/media/cover.a58ff979.jpg",
     "static/media/diu-logo.d461b2e5.png": "/turag/static/media/diu-logo.d461b2e5.png",
@@ -31,8 +31,8 @@
   "entrypoints": [
     "static/js/runtime-main.813200a6.js",
     "static/css/2.c1a117ac.chunk.css",
-    "static/js/2.5abc05d9.chunk.js",
+    "static/js/2.e03a9f1d.chunk.js",
     "static/css/main.59b04e8e.chunk.css",
-    "static/js/main.2238b5f6.chunk.js"
+    "static/js/main.cb0f87e5.chunk.js"
   ]
 }
