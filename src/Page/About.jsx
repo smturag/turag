@@ -102,9 +102,9 @@ class About extends Component {
                               height={300}
                               alt="171x180"
                               src={phakal}
-                            /> */}
+                            />
                             <figcaption> Asim Uddin Standard kinder garden</figcaption>
-                          </Figure>
+                          </Figure> */}
                         </Col>
                       </Row>
                     </Card.Body>
