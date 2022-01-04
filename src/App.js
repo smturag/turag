@@ -2,7 +2,7 @@
 import React, { Component, useState, useEffect } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import {Navbar,Container,Nav} from 'react-bootstrap'
-import {BrowserRouter as Router,Switch,Route,Redirect} from "react-router-dom";
+import {HashRouter as Router,Switch,Route,Redirect} from "react-router-dom";
 import Home from './Page/Home.jsx'
 import About from './Page/About'
 import Skills from './Page/Skills'
